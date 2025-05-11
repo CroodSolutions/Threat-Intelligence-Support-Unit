@@ -44,23 +44,23 @@ We welcome and encourage contributions, participation, and feedback - as long as
 
 Without the help of so many people along the way, TISU would not be the amazing community it is today:
 
-Andy Jordan
-Biniam Gebrehiwot
-Bob Franklin
-Christian Taillon
-Ezra Woods
-Frank Grimmelman
-Jane Ginn
-Joseph Urbaszewski
-Matt Clark
-Megan Howell
-Pam Rowland
-Robert Loy
-Ryan Sidebottom
-Steven Faulkner
-Trevor Costanzi 
+ - Andy Jordan
+ - Biniam Gebrehiwot
+ - Bob Franklin
+ - Christian Taillon
+ - Ezra Woods
+ - Frank Grimmelman
+ - Jane Ginn
+ - Joseph Urbaszewski
+ - Matt Clark
+ - Megan Howell
+ - Pam Rowland
+ - Robert Loy
+ - Ryan Sidebottom
+ - Steven Faulkner
+ - Trevor Costanzi 
 
-Support of ACTRA, GCU, GCE, NGS, and other communities.  
+We are also deeply appreciative of the support from ACTRA, GCU, GCE, NGS, and other communities.  
 
 (and so many others - we will update as we go along)
 
