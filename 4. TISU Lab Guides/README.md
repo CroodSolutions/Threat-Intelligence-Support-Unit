@@ -1,5 +1,5 @@
 # Threat-Intelligence-Support-Unit
-Placeholder for the Threat Intelligence Support Unit (TISU)
+Placeholder for the Threat Intelligence Support Unit (TISU) labs. 
 
 **Threat Intelligence Support Unit (TISU)**
 
