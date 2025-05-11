@@ -51,6 +51,7 @@ Without the help of so many people along the way, TISU would not be the amazing 
  - Ezra Woods
  - Frank Grimmelman
  - Jane Ginn
+ - Jessica Calyx
  - Joseph Urbaszewski
  - Matt Clark
  - Megan Howell
