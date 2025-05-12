@@ -62,7 +62,8 @@ Without the help of so many people along the way, TISU would not be the amazing 
  - Robert Loy
  - Ryan Sidebottom
  - Steven Faulkner
- - Trevor Costanzi 
+ - Trevor Costanzi
+ - Tyler Ostapuk
 
 We are also deeply appreciative of the support from ACTRA, GCU, GCE, NGS, and other communities.  
 
