@@ -44,10 +44,12 @@ We welcome and encourage contributions, participation, and feedback - as long as
 
 Without the help of so many people along the way, TISU would not be the amazing community it is today:
 
+ - Allison Reeves
  - Andy Jordan
  - Biniam Gebrehiwot
  - Bob Franklin
  - Christian Taillon
+ - Elizabeth Fair
  - Ezra Woods
  - Frank Grimmelman
  - Jane Ginn
