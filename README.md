@@ -64,6 +64,7 @@ Without the help of so many people along the way, TISU would not be the amazing 
  - Steven Faulkner
  - Trevor Costanzi
  - Tyler Ostapuk
+ - The Bingus Man
 
 We are also deeply appreciative of the support from ACTRA, GCU, GCE, NGS, and other communities.  
 
