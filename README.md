@@ -74,5 +74,5 @@ We are also deeply appreciative of the support from ACTRA, GCU, GCE, NGS, and ot
 
 A note from Mike:
 
-This started with requests for the slides I use when teaching malware analysis for TISU, ACTRA, and GCU.  There is a lot of room for this content to grow and improve, and we welcome the feedback and contributions of others to make this a great introductory curriculum and useful community.  
+This started with requests for the slides I use when teaching malware analysis for TISU, ACTRA, and GCU.  There is a lot of room for this content to grow and improve, and we welcome the feedback and contributions of others to make this a great introductory curriculum and useful community.  Also, a lot has been redacted from the slides, or cleaned up to make them generic.  If you see gaps, feel free to improve them. :)
 
